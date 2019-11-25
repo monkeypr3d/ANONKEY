@@ -1,2 +1,0 @@
-# ANONKEY
-Discord Bot
