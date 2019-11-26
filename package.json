@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "discord": "^0.8.2",
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "python-shell": "^1.0.8"
   },
   "engines": {
     "node": "8.x"
